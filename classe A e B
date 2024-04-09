@@ -1,0 +1,17 @@
+Class A(){
+private:
+  int A1;
+  float A2;
+public:
+void MA1();
+void MA2();
+};
+class B(){
+private:
+  int B1;
+  flaot B2;
+public:
+void MB1();
+void MB2();
+};
+
